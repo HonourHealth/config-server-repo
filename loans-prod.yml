@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Hey, welcome to bank loans related prod APIs "
+  contactDetails:
+    name: "Pelin Sude - Product Owner"
+    email: "pelin@bank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
